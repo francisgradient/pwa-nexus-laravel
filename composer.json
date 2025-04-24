@@ -1,0 +1,19 @@
+{
+    "name": "francisabch12/pwa-nexus-laravel",
+    "description": "PWA for Laravel 12",
+    "type": "service-enhancement",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "Francisabch12\\PwaNexusLaravel\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Aakashdeep S. B.",
+            "email": "abchhackerz@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {}
+}
